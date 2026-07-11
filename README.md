@@ -6,6 +6,7 @@ Homebrew tap for [**mtg**](https://github.com/modern-terminal-games/mtg) — mod
 
 ```bash
 brew tap modern-terminal-games/mtg
+brew trust modern-terminal-games/mtg   # Homebrew requires trusting third-party taps
 brew install mtg
 ```
 
