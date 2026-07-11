@@ -1,8 +1,8 @@
 class Mtg < Formula
-  desc "Modern terminal games launcher (Brick Breaker and more)"
+  desc "Modern terminal games launcher (Breaker and more)"
   homepage "https://github.com/modern-terminal-games/mtg"
-  url "https://github.com/modern-terminal-games/mtg/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "2894724e58e52e74c4dd9e941135b34f53a86bfb5d6137749794306fdc4e7ba7"
+  url "https://github.com/modern-terminal-games/mtg/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "2a929141649aca73f074b5eb58e4302c0e53f578796c8bdc2cdcb610231ffb2c"
   license "MIT"
   head "https://github.com/modern-terminal-games/mtg.git", branch: "main"
 

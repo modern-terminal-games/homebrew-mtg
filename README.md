@@ -6,35 +6,21 @@ Homebrew tap for [**mtg**](https://github.com/modern-terminal-games/mtg) — mod
 
 ```bash
 brew tap modern-terminal-games/mtg
-brew trust modern-terminal-games/mtg   # Homebrew requires trusting third-party taps
+brew trust modern-terminal-games/mtg
 brew install mtg
 ```
 
-Then:
-
 ```bash
-mtg                      # interactive menu
+mtg
 mtg list
-mtg brick-breaker
+mtg breaker
 ```
 
 ## Upgrade
 
 ```bash
-brew update
-brew upgrade mtg
+brew update && brew upgrade mtg
 ```
-
-## Uninstall
-
-```bash
-brew uninstall mtg
-brew untap modern-terminal-games/mtg
-```
-
-## Formula
-
-Builds the `mtg` binary from the [mtg](https://github.com/modern-terminal-games/mtg) source release (requires Rust at build time).
 
 ## License
 
