@@ -1,6 +1,6 @@
 # homebrew-mtg
 
-Homebrew tap for [**mtg**](https://github.com/modern-terminal-games/mtg) — modern terminal games.
+Homebrew tap for [**mtg**](https://github.com/modern-terminal-games/mtg).
 
 ## Install
 
@@ -24,4 +24,4 @@ brew update && brew upgrade mtg
 
 ## License
 
-MIT — same as the main project.
+MIT
