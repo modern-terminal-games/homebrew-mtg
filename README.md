@@ -11,9 +11,9 @@ brew install mtg
 ```
 
 ```bash
-mtg
 mtg list
 mtg breaker
+mtg paddle-battle
 ```
 
 ## Upgrade

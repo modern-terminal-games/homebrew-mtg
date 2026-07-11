@@ -1,8 +1,8 @@
 class Mtg < Formula
-  desc "Modern terminal games launcher (Breaker and more)"
+  desc "Modern terminal games launcher (Breaker, Paddle Battle, and more)"
   homepage "https://github.com/modern-terminal-games/mtg"
-  url "https://github.com/modern-terminal-games/mtg/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "2a929141649aca73f074b5eb58e4302c0e53f578796c8bdc2cdcb610231ffb2c"
+  url "https://github.com/modern-terminal-games/mtg/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "e1b190833c3d35cef50f7c539225f1555a41140f7f995da18490b2e839125d4e"
   license "MIT"
   head "https://github.com/modern-terminal-games/mtg.git", branch: "main"
 
