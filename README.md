@@ -13,9 +13,9 @@ brew install mtg
 Then:
 
 ```bash
-mtg                 # interactive menu
+mtg                      # interactive menu
 mtg list
-mtg breakout
+mtg brick-breaker
 ```
 
 ## Upgrade
